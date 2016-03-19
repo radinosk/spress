@@ -1,0 +1,2 @@
+# spress
+Openshift manifest tests
